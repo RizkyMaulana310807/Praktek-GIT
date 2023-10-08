@@ -2,3 +2,11 @@ body{
     color: white;
     font-family: 'Courier New', Courier, monospace;
 }
+a{
+    background-color: blue;
+    border-radius: 10px;
+    border: white 3px solid;
+    color: white;
+    font-family: Arial;
+    padding: 10px;
+}
